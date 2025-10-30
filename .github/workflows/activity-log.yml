@@ -16,8 +16,10 @@ jobs:
       - name: Update README with activity log
         uses: TheDanniCraft/activity-log@v1
         with:
-          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
-          
-          COMMIT_MSG: 'Bot: Automatically update activity log'
+          GITHUB_USERNAME: ${{ github.repository_owner }}
 
-          MAX_EVENTS: 5
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
+
+          COMMIT_MESSAGE: 'Bot: Automatically update activity log'
+
+          EVENT_LIMIT: 5
