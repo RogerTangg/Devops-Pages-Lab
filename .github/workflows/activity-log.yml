@@ -1,0 +1,23 @@
+name: Update README Activity Log
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Update README with activity log
+        uses: TheDanniCraft/activity-log@v1
+        with:
+          GH_TOKEN: ${{ secrets.REPO_TOKEN }}
+          
+          COMMIT_MSG: 'Bot: Automatically update activity log'
+
+          MAX_EVENTS: 5
