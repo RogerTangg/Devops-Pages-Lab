@@ -22,7 +22,7 @@
     * Workflow 使用 `TheDanniCraft/activity-log` action 來抓取此儲存庫的最新公開活動。
 
 3.  **自動提交 (Automated Commit)**
-    * Action 將抓取到的活動日誌，自動寫入 (commit) 到本 `README.md` 檔案下方的 `Recent Activity` 區塊。
+    * Action 將抓取到的活動日誌，自動寫入 (commit) 到本 `README.md` 檔案下方的 `最近活動` 區塊。
 
 4.  **自動部署 (Automatic Deployment)**
     * 當 `README.md` 被機器人更新時，會自動觸發 GitHub Pages 重新建置 (rebuild)。
