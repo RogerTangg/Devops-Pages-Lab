@@ -4,7 +4,7 @@
 
 您可以在此查看自動部署的成果 (Live URL)：
 
-**[https:/RogerTangg.github.io/devops-pages-lab/](https://RogerTangg.github.io/devops-pages-lab/)**
+**[https:/rogertangg.github.io/devops-pages-lab/](https://rogertangg.github.io/devops-pages-lab/)**
 
 
 ---
