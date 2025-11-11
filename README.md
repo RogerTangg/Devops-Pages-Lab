@@ -32,9 +32,9 @@
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch `main` in a private repo
-2. 📝 Committed to [RogerTangg/Virtual-Coach-App-Frontend](https://github.com/RogerTangg/Virtual-Coach-App-Frontend/commit/48f0ffcc23f35f5d94d3a5656655121b02d2b0bd)
-3. 🎉 Created a new branch [`main`](https://github.com/RogerTangg/Virtual-Coach-App-Frontend/tree/main) in [RogerTangg/Virtual-Coach-App-Frontend](https://github.com/RogerTangg/Virtual-Coach-App-Frontend)
-4. 📝 Committed to [RogerTangg/Devops-Pages-Lab](https://github.com/RogerTangg/Devops-Pages-Lab/commit/92c913ac48ea7917e5884844c145868d1ab62a6f)
-5. 📝 Committed to [RogerTangg/Devops-Pages-Lab](https://github.com/RogerTangg/Devops-Pages-Lab/commit/64077e6371451de0194bf333f8435890568a8bf4)
+1. 📝 Committed to a private repo
+2. 🎉 Created a new branch `main` in a private repo
+3. 📝 Committed to [RogerTangg/Virtual-Coach-App-Frontend](https://github.com/RogerTangg/Virtual-Coach-App-Frontend/commit/48f0ffcc23f35f5d94d3a5656655121b02d2b0bd)
+4. 🎉 Created a new branch [`main`](https://github.com/RogerTangg/Virtual-Coach-App-Frontend/tree/main) in [RogerTangg/Virtual-Coach-App-Frontend](https://github.com/RogerTangg/Virtual-Coach-App-Frontend)
+5. 📝 Committed to [RogerTangg/Devops-Pages-Lab](https://github.com/RogerTangg/Devops-Pages-Lab/commit/92c913ac48ea7917e5884844c145868d1ab62a6f)
 <!--END_SECTION:activity-->
