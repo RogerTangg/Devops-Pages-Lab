@@ -32,9 +32,9 @@
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 📝 Committed to a private repo
-2. 🎉 Created a new branch `main` in a private repo
-3. 🎉 Created a new branch `main` in a private repo
-4. 📝 Committed to [RogerTangg/Devops-Pages-Lab](https://github.com/RogerTangg/Devops-Pages-Lab/commit/92c913ac48ea7917e5884844c145868d1ab62a6f)
-5. 📝 Committed to [RogerTangg/Devops-Pages-Lab](https://github.com/RogerTangg/Devops-Pages-Lab/commit/64077e6371451de0194bf333f8435890568a8bf4)
+1. 🎉 Created a new branch `004-test-account-data` in a private repo
+2. 📝 Committed to a private repo
+3. 📥 Opened a PR in a private repo
+4. 🎉 Created a new branch `003-local-testing` in a private repo
+5. 📝 Committed to a private repo
 <!--END_SECTION:activity-->
