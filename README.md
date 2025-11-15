@@ -32,9 +32,9 @@
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch `004-test-account-data` in a private repo
-2. 📝 Committed to a private repo
-3. 📥 Opened a PR in a private repo
-4. 🎉 Created a new branch `003-local-testing` in a private repo
-5. 📝 Committed to a private repo
+1. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/f4d0ed946d8bbfff5779ef065b4783290aa92c6c)
+2. 📥 Opened [PR #3](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/pull/3) in [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version)
+3. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/e4857aaaa8d650f28552750d83d99d9386955403)
+4. 🌍 Made repository [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version) public
+5. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/0c45fc5bd4a06580cb1aeae9d75ea61288f1fa6d)
 <!--END_SECTION:activity-->
