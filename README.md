@@ -32,9 +32,9 @@
 
 ## 最近活動
 <!--START_SECTION:activity-->
-1. 🎉 Created a new branch `main` in a private repo
-2. ⭐ Starred [usestrix/strix](https://github.com/usestrix/strix)
-3. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/f4d0ed946d8bbfff5779ef065b4783290aa92c6c)
-4. 📥 Opened [PR #3](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/pull/3) in [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version)
-5. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/e4857aaaa8d650f28552750d83d99d9386955403)
+1. 🗑️ Deleted a branch `004-Add-Features` in [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version)
+2. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/42f0b91b8b18493c5ab9161e71767473b3b4093e)
+3. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/2f57b99837c9b632a23ec8f5408fab8d90645473)
+4. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/767665bf74e6ae74673e3f44dd5e0889bd913de9)
+5. 📝 Committed to [RogerTangg/Virtual-Coach-App-New_Version](https://github.com/RogerTangg/Virtual-Coach-App-New_Version/commit/4ed74c1db8060a495d16fdbf8f982af5994f619d)
 <!--END_SECTION:activity-->
